@@ -1,0 +1,14 @@
+{
+  "admins": [
+    {
+      "username": "admin",
+      "password": ""
+    }
+  ],
+  "galaxy.meteor.com": {
+    "env": {
+      "DEPLOY_HOSTNAME": "galaxy.meteor.com",
+      "MONGO_URL": ""
+    }
+  }
+}
