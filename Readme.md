@@ -1,7 +1,7 @@
 
 _This project was generated with [create-empirica-app](https://github.com/empiricaly/create-empirica-app)._
-
-# Running this App Locally
+- Note: Add the password and the database URL before running the application.
+## Running this App Locally
 
 ## General  Setup
 If you haven't already:
